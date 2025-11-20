@@ -124,14 +124,14 @@ footer {
 
 /* Aqui você coloca suas imagens */
 .img1 {
-  background-image: url('images/fundo.jpg');
+  background-image: url('/images/fundo.jpg');
 }
 
 .img2 {
-  background-image: url('images/logo.png');
+  background-image: url('/images/logo.png');
 }
 .img3 {
-  background-image: url('images/image.png');
+  background-image: url('/images/image.png');
 }
 
 
@@ -179,5 +179,6 @@ footer {
     margin: 0;
     color: white;
 }
+
 
 
