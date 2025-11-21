@@ -124,15 +124,15 @@ footer {
 
 /* Aqui você coloca suas imagens */
 .img1 {
-  background-image: url('https://drive.google.com/uc?export=download&id=1FLqZzj5s70n9gDeN7210oE9XFLylx6F2');
+  background-image: url('images/fundo.png');
 }
 
 .img2 {
-  background-image: url('https://drive.google.com/uc?export=download&id=1X6Hpb88NOVeg9YiP2tKMQ-doUqNsDssg');
+  background-image: url('images/logo.png');
 }
 
 .img3 {
-  background-image: url('https://drive.google.com/uc?export=download&id=1uMbhW0dxUUMtrr7_HUKS_ofOyhf78kOO');
+  background-image: url('images/image.png');
 }
 
 
@@ -181,6 +181,7 @@ footer {
     margin: 0;
     color: white;
 }
+
 
 
 
